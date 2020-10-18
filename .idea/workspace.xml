@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="838d72d1-afe2-4cd8-b4c3-19693c37a8a8" name="Default Changelist" comment="" />
+    <list default="true" id="838d72d1-afe2-4cd8-b4c3-19693c37a8a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hand-written-svg-text-animation/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hand-written-svg-text-animation/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hand-written-svg-text-animation/dist/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/hand-written-svg-text-animation/dist/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +21,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hji5bCOMPue0Ax3C5dtNReVfO5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,7 +40,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -48,6 +61,11 @@
       <workItem from="1601173330889" duration="1385000" />
       <workItem from="1601175297385" duration="61000" />
       <workItem from="1601258933599" duration="735000" />
+      <workItem from="1601658040321" duration="1170000" />
+      <workItem from="1601696959236" duration="335000" />
+      <workItem from="1602045851717" duration="1456000" />
+      <workItem from="1602050840447" duration="3739000" />
+      <workItem from="1603004250849" duration="1637000" />
     </task>
     <servers />
   </component>
@@ -63,9 +81,17 @@
       <screen x="0" y="0" width="1344" height="840" />
     </state>
     <state x="453" y="161" key="FileChooserDialogImpl/0.0.1344.840@0.0.1344.840" timestamp="1601175352600" />
-    <state x="174" y="65" key="SettingsEditor" timestamp="1600530794304">
+    <state x="174" y="65" key="SettingsEditor" timestamp="1601658254425">
       <screen x="0" y="0" width="1344" height="840" />
     </state>
-    <state x="174" y="65" key="SettingsEditor/0.0.1344.840@0.0.1344.840" timestamp="1600530794304" />
+    <state x="174" y="65" key="SettingsEditor/0.0.1344.840@0.0.1344.840" timestamp="1601658254425" />
+    <state x="667" y="193" key="run.anything.popup" timestamp="1602060133976">
+      <screen x="0" y="0" width="1344" height="840" />
+    </state>
+    <state x="667" y="193" key="run.anything.popup/0.0.1344.840@0.0.1344.840" timestamp="1602060133976" />
+    <state x="335" y="161" width="672" height="678" key="search.everywhere.popup" timestamp="1601658308907">
+      <screen x="0" y="0" width="1344" height="840" />
+    </state>
+    <state x="335" y="161" width="672" height="678" key="search.everywhere.popup/0.0.1344.840@0.0.1344.840" timestamp="1601658308907" />
   </component>
 </project>

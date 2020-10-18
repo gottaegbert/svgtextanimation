@@ -3,5 +3,15 @@
     <option name="myName" value="Project Default" />
     <inspection_tool class="HtmlRequiredSummaryAttribute" enabled="true" level="INFORMATION" enabled_by_default="true" />
     <inspection_tool class="HtmlRequiredTitleAttribute" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="c0-4.7-0.7-7.5-0.7-7.5c-2.7,0.2-10.9,0.9-10.9,0.9c-8.1,0.6-8.4,0.9-8.4,0.9c-1.6,11.3-4.2,20.8-4.2,20.8" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
   </profile>
 </component>
